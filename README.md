@@ -1,2 +1,3 @@
 # Arduino-Projects
-a collection of Arduino projects I have done over the years.
+A collection of Arduino related projects I have done over the years.<br>
+Contains codes for Arduino Uno, ESP8266/ESP32 and Drivers<br>
